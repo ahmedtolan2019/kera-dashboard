@@ -2,7 +2,7 @@
 name: Build and Deploy to Netlify[Staging]
 on:
   push:
-    branches: ["develop-todo"]
+    branches: ["develop"]
 
 jobs:
   build:
